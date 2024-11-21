@@ -1,5 +1,5 @@
 <template>
-    <header>
+  <header>
     <nav>
       <div class="logo">
         <a href="#">網站名稱</a>
